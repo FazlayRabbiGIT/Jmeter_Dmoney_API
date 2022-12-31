@@ -5,4 +5,4 @@
 ## 1. Clone the repo
 ## 2.Run CMD in the root file
 ## Give following command
-## jmeter -n -t Jmetr_Project.jmx -l log.csv -e -o Reports
+```jmeter -n -t Jmetr_Project.jmx -l log.csv -e -o Reports```
